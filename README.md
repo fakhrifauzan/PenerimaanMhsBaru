@@ -1,4 +1,4 @@
-# TubesDAP (Dasar Algorimta Pemrograman)
+# TubesDAP (Dasar Algoritma Pemrograman)
 
 Tugas Besar Dasar Algoritma Pemrograman
 
